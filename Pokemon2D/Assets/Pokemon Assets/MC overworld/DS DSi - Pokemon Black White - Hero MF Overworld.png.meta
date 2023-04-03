@@ -1,0 +1,3885 @@
+fileFormatVersion: 2
+guid: 6bd4de4191d21404b9088b05e307d580
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 445
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c2435429a8c4148896d28360557db4
+      internalID: -961291381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 445
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54881130872b51540983f3ed884f66ed
+      internalID: -913680711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 445
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38919a371a743104faa610fde60aa980
+      internalID: 1047922179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 446
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f269afc73f26004eafafe18b3a6db6c
+      internalID: -1723880750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 445
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a369727e58f164cac7f449b89d9a1f
+      internalID: 284232073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 445
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44080f70a21bb65479589b2ba506a1a7
+      internalID: 1824717255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 445
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02302d9dc2e98754593dc1ae327a6dd3
+      internalID: -1798021290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 445
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0df32738db8a2468e13e158d811f1b
+      internalID: -1127975861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 445
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d7a843333a6664a86255d1471bfff1
+      internalID: -1928567176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 445
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3950a72d2cda7134390712eb46dfafb5
+      internalID: 590265182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 445
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42454f63f343d8645aac71c6aeed3b39
+      internalID: 832586920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 445
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef600596c55c5bd4c825d0d25cbedb04
+      internalID: 2039409187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_12
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 445
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14d4d83c60815048a91476d90218876
+      internalID: -180465857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 445
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f05dee8ee6c4b4c98a12067ecfcefc
+      internalID: -1110979044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_14
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 445
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8d282cc2af0649aafaabee443cbd9
+      internalID: 1200701006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 444
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40039e5720e0e0c40b2feb738a392a16
+      internalID: -1994340066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 444
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd0cbaaa8160a2419e8a7d9200365d2
+      internalID: -357620552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 445
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a4f3fe627db5149badd07b49384908
+      internalID: 1159060168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_18
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 445
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff7ac6e342d8564486c6cb24bc8a0a9
+      internalID: -118499818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_19
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 445
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380cdf0f5823ca341a04d1432b5f2bf7
+      internalID: 650044909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_20
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 445
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9079132e1dcb159449436d6e342be24a
+      internalID: -1968667645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 445
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d527881a8f60914aa2b897f4a66d9d1
+      internalID: -855233601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 413
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45647828365f544cab41592eaddf643
+      internalID: -769135576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 413
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698abd441ee814540a72d6ca1e38a861
+      internalID: -161240490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 413
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c39bbe7f3fcb644af085fb645e0e87
+      internalID: -2103587149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 416
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f9c37ef50bf34da5cbb18603d6bc6
+      internalID: 79511137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 413
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8130c4465ec351d4c81a62440b2b2ae1
+      internalID: -1965129855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 413
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d2cb5486369346bd6d24c0635ac0d
+      internalID: 328377296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 413
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde5b581dd7bbab448ee8bedd7f20f9d
+      internalID: 253725687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 413
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30221379ba22cba449c41230108bde41
+      internalID: -1157714327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 413
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92509480b8fb23940bf863887246e85a
+      internalID: 1411648921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 413
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95c8eb03720a147bcb96e52c698efd
+      internalID: 961709811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 413
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f9ad8b3ac758341b0fb3632a14a4a0
+      internalID: -1257345936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 413
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cc2d4848bb81f459fe077c6d97e4d9
+      internalID: -1613766301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 413
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ef9fe228bae446b1541d2c35076d7
+      internalID: -1679778778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_35
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 411
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b081ed606066d409c0404a0aadb408
+      internalID: -1171700380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 412
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ef931a0d4fdc543894ddc359025868
+      internalID: 1715660003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_37
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 412
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf13b71f06386d419d3d61a72944c1f
+      internalID: -849667237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_38
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 412
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e951eca3fc4139448ab117040f67ffd6
+      internalID: 447866889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 409
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84c5679f1e92224296affce2aab0ac1
+      internalID: 669498233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_40
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 409
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4b95eb8aff35a4f96beeff7ad67e15
+      internalID: 1154332847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_41
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 409
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062a2c4a8b50d0e46b664d08071cba1b
+      internalID: 740556038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_42
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 409
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e904b5c7434e05c448d2aafe660ab863
+      internalID: -1275031344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 381
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87cdfe7875703f4a85f157a65750711
+      internalID: 2135436314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 381
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85180f380a762354b8e6ccd2028524cf
+      internalID: -46241673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 381
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc03c12f41e9aa4f89cbdab0fdd48a1
+      internalID: 1160213954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 381
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72f5d6143ae1a24380b98ca9b8f341e
+      internalID: 2123524838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 381
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deedb228c78e7f5459f0a33b68fc7ace
+      internalID: 904877458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 381
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f165653048b5246929b3c984091beb
+      internalID: -1780450885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 381
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee27711fa12759842aa60de61b176f5b
+      internalID: 1737316503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_50
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 381
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eec717e3518184c8ea914f4d9bf0ef
+      internalID: -1700938025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_51
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 381
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f92ddf613a65064aa9a664ebf3159a9
+      internalID: -751109691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_52
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 381
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d9a2a8854cbfc46bf48499e0b950ae
+      internalID: -1184947350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_53
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 381
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1faa5ade3be3104195f925ea78c686d
+      internalID: -1686703629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_54
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 381
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df50e96b863234647a03a889e6560227
+      internalID: 1901486588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_55
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 381
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c541f99ad0bf2974aa9cd0ccd86db21d
+      internalID: -2111098026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_56
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 373
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ed1d9dc8915404e88289e6d209303b
+      internalID: -275791872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_57
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 373
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8367cc18175d848b46ce9924e57ef4
+      internalID: -651333219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_58
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 373
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e9fc8aa60e4cc448ce1854807b37db
+      internalID: -1002861297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_59
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 373
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c88c75c7b2f84d98472751c579c50
+      internalID: 86015295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 349
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d664edfd8082a41a0648a9a6dff09b
+      internalID: -239047147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 349
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9192bb086f6470f448ae9cac058bb3e6
+      internalID: 771786151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 349
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be755ebd84b94fa40ba9b4e87dd18f77
+      internalID: 1557285144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_63
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 349
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defa5d5c6eb625e4dae996b9f7bd295f
+      internalID: 637125705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 349
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a691ab720768af74483812fc46d1ef33
+      internalID: 2007588594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 349
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7439e6814700bf345916b11e1445e9f4
+      internalID: 1213989503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_66
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 349
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1856d67887a8e4e94b7fd67b97ef35
+      internalID: -1873731762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_67
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 349
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3f55cce33acc64c86c1ab7075aaf47
+      internalID: 475295420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_68
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 349
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca5f957d67cf664892d76afa5209a98
+      internalID: -403464375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_69
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 349
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad52cb95f6e2064aa4c6274c7b77e3a
+      internalID: 1658836496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_70
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 349
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31422520fa5ab934facbb61f30e0e2c6
+      internalID: 555995880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_71
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 349
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2447113abaf49c34f9802db5a5fe101f
+      internalID: -1281968672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_72
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 349
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fe35d53ac71a3448073ea64459766a
+      internalID: -1211593925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_73
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 305
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1501a2ae04129954cb876796afd43106
+      internalID: 1184425019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_74
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 305
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0cf4f56a690a840bb14d148602c082
+      internalID: -1056356207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 305
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78174642d148ff0478c4f125c88cff04
+      internalID: 990449529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_76
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 306
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d1b1de9abebb34dbb2eae926c89e6d
+      internalID: -252136160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 305
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6ff6ac15882fa4c9baada89ca2073b
+      internalID: 2142319895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_78
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 305
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2fc9ad7b54075409a069b3ef76befb
+      internalID: -1862341209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_79
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 305
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b20958a96ab95e4ba9a60dc75c8128c
+      internalID: 1143175191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_80
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 305
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e988cfb32bbcb264b96ce00ea14e7c44
+      internalID: 2036931369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_81
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 305
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b29628f6c74b954497db7d1a97b8c88
+      internalID: -16463988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_82
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 305
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51e1811f67592a48860bf76ba070c58
+      internalID: 1501770271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_83
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 305
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc1f5929aeec744cb64173b8167a397
+      internalID: 1528589883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 305
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99367e7932b210a4183da8c24434a6c3
+      internalID: 1988397607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_85
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 305
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde9f35f2231c44389d6503818d001d
+      internalID: 899593388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 305
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7489e88dbf4cf8f44a211d7a24e1c243
+      internalID: -520694602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_87
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 305
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9ddce008ec4b24a80fcaecd5c5699a
+      internalID: 391756176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_88
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 304
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb260542deaee24e96686890ad4dcc1
+      internalID: 328657581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_89
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 304
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48725908228a9044ebbb5099d317eafa
+      internalID: 360173725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_90
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 305
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecce6a73aefde645a65359aadbce02f
+      internalID: -1085845382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_91
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 305
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ba305597774b488fef29c5c817700
+      internalID: 1807190282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_92
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 305
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c3c8ad57bce324392d0bd150c2d1bf
+      internalID: -1100637499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_93
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 305
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41a734fb93c7de4c9cb52c1773c5745
+      internalID: -999588829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_94
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 305
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aa4b85963cd3a4daeba58321c38a71
+      internalID: -1734629409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_95
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 273
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaeb9975a8558a42958b3977d1af8a4
+      internalID: 250682310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_96
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 273
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77902d40a990b8418be156b3e2e47f1
+      internalID: -485783971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_97
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 273
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57b79d950f32e54ea66921c9334b57f
+      internalID: -20901768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_98
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 276
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8397fc056989dd45a21dc9f618440ae
+      internalID: -220394791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_99
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 273
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3ffe47fba757549b83d5636c4dcbab
+      internalID: 1244525825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_100
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 273
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa9e08311d40f2479ecd270cccc4dab
+      internalID: -1748553223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 273
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e3cd2a4f9142041a76d638cca014c8
+      internalID: -960574718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_102
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 273
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a114e03749b4b344b2ef907bd7ac5d3
+      internalID: 1513692056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_103
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 273
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3a938dde71c24418c4f6ea04a25a7e
+      internalID: -381923997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_104
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 273
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d370cf2ce5931004bab596f6af10e3c0
+      internalID: -1026265974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_105
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 273
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cd30536b9402143b1cbba4c63e2889
+      internalID: -2021720250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_106
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 273
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c167e27b26469d44ada7c76bd679297
+      internalID: -1639016509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_107
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 273
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0eb251fd7e3ec48a37bc76ad18b919
+      internalID: 1360498363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_108
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 271
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c7e278908b304885dd6590664697b
+      internalID: 639832100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_109
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 272
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb47b54500207a479e3a9e886581d33
+      internalID: 981870788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_110
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 272
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225c3df83e613b44eb9ee9b647b0a532
+      internalID: -1285393781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_111
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 272
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74653d8c0ab824b87c6272220a321f
+      internalID: -831010439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_112
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 269
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb4a2a9ff4622a4eb6ca262c9517597
+      internalID: -1094369549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_113
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 269
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250fe02694429d46a85f84baaf013eb
+      internalID: 1340987404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_114
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 269
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e30b31fe2f4d84c9ea8f98dd85bdce
+      internalID: 1642516095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 269
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b3a5208d4bd9498ce7c22cc06b406
+      internalID: -409466366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_116
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 241
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cd45fa2fe5f5249878b7c04ea546d9
+      internalID: -1109712085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 241
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ba6b302691bb04199cd8eabcc1d205
+      internalID: 2033083723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 241
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97757113681e27458c3b0815c8aeda0
+      internalID: 1911818158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_119
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 241
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787c6fcf8609eba4aab5ed58f7422e40
+      internalID: -31964826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_120
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 241
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed1d7aaadea9bb44bb14132459ebc6c
+      internalID: -1603740976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_121
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 241
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9885c5f4cc8db4f83226da244a90e2
+      internalID: 1336683164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_122
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 241
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a850bee9511a446a8b65de15fa06ff
+      internalID: 693814163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_123
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 241
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10beb80b42fddc04f985a8ce97feca05
+      internalID: -1452524421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_124
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 241
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec3641e22b355c4badaadea055abdb1
+      internalID: 1167772435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_125
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 241
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11f2153bb1154498c7ffae9462bb2b
+      internalID: -1205331739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_126
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 241
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f9576c4fc866a4cb16eff249e60837
+      internalID: 1151713777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_127
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 241
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43461323dde8c045805312915c36a8f
+      internalID: 1732633797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_128
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 241
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d0246a1c87284eb92cfa07b85b5fe
+      internalID: 659405353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_129
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 233
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e0d84995283084eb9e15dbc080b1ad
+      internalID: 491845585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_130
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 233
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2242efa2e52d2a74b97a6d524c51273a
+      internalID: -296759673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_131
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 233
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f286bc51c30cb9a4aa3e844dfdf6b184
+      internalID: 1563546234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_132
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 233
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1218d199b70ddc6428071a15b9eccb94
+      internalID: 1219492023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_133
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 209
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f87813bb3845b45a9a87a209c85072
+      internalID: 1269156590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_134
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 209
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94c2d742d2fbb48a35854036c6c28f
+      internalID: 2111648871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_135
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 209
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261a7fc1d71d01949839566b2b7e9ce3
+      internalID: 1868588312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_136
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 209
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c063b05782f1478cdbc6ceda1183b
+      internalID: -567743014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_137
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 209
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe67b0713d464c443973994a0a16635c
+      internalID: -1458215449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_138
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 209
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c8ffdcf9b256b46a799fbbd2421dac
+      internalID: -621297331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_139
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 209
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f6286404b4e764692c26e3e513c2b3
+      internalID: 1275623487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_140
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 209
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85ec4783965563468873acae02efe24
+      internalID: -997462548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_141
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 209
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951a8c0f5a87f57489c887c34a0abebf
+      internalID: -262698756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_142
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 209
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde9d583ae15bca43bd32204f9f681bf
+      internalID: 1749132101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_143
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 209
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a251466480a5cb4e9becfe547da33b2
+      internalID: 1358867665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_144
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 209
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc563130fb1cb94e98712103decef87
+      internalID: -1037498427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_145
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 209
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf49b0faf19cad740b68b10788fb4cfa
+      internalID: -1344660392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_146
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 149
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e209c41f7c660489f47198befbc49b
+      internalID: -468922991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_147
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 149
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926c492d84c47534c91167ce19fd4f6a
+      internalID: 546266352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_148
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 149
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f89baea414b9b4aa132e8d69f0421b
+      internalID: 2064397790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_149
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 142
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2155f96e05a9144937633f1946d2dd
+      internalID: 1272994754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_150
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 149
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e89668ade84b544a05743e78c58526
+      internalID: -1755605118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_151
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 149
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cbf11ab9571804dba1c1277a235eee
+      internalID: 310491498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_152
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 149
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c2a45ce1709994f967763c0b4523ac
+      internalID: -1697854448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_153
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 142
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070245ce26c42fd45b40184cee45106d
+      internalID: 127294205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_154
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 126
+        width: 142
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694e1f036dc76e54c8bb65d2f77e66ce
+      internalID: 2096700587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_155
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 78
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9641c05e77d6d44abaed1c114712e4b
+      internalID: -1683899306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_156
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 85
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f65d38f40f0494ca63ea37cd4dccc0
+      internalID: -374296527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_157
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 85
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3b4609cfd5861498edff94dd63b09a
+      internalID: -1069557536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_158
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 85
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a100b1c9886994eaf893b4077e493e
+      internalID: 1677008513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_159
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 78
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e07e2468825b41a05da50c97d6c81
+      internalID: -734167503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_160
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 85
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e305f1e77ccf04a91de255be89ec91
+      internalID: 2044165239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_161
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 85
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ddfc230994acc408da36f1764e3c9f
+      internalID: 1209024366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_162
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 85
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f2f7f0b9db57468e171d1e326b1ca
+      internalID: 581152262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_163
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 21
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7037ccf7d9b554085ff6f1cfc94469
+      internalID: -1591438313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_164
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3049c62e4597764890cd5ccd088fa4d
+      internalID: 143679916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_165
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 21
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305d6f455e9f8df47b38d79c051742ba
+      internalID: -1169330727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_166
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 21
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a21d8f0f0115c24993cd5999f1a4ed4
+      internalID: 241675575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_167
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 21
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb94c866c911f0a4fbfa4799310c3a83
+      internalID: -1479608885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_168
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 21
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b1fe722737c8d41a8d24985ab93360
+      internalID: -845713112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_169
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 21
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defbc9c06b2d3694f8db7e689afb7321
+      internalID: 1315808933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - Hero MF Overworld_170
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 21
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedee1abe23f159438233e2a8abbcffb
+      internalID: -2072553411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Black White - Hero MF Overworld_0: -961291381
+      DS DSi - Pokemon Black White - Hero MF Overworld_1: -913680711
+      DS DSi - Pokemon Black White - Hero MF Overworld_10: 832586920
+      DS DSi - Pokemon Black White - Hero MF Overworld_100: -1748553223
+      DS DSi - Pokemon Black White - Hero MF Overworld_101: -960574718
+      DS DSi - Pokemon Black White - Hero MF Overworld_102: 1513692056
+      DS DSi - Pokemon Black White - Hero MF Overworld_103: -381923997
+      DS DSi - Pokemon Black White - Hero MF Overworld_104: -1026265974
+      DS DSi - Pokemon Black White - Hero MF Overworld_105: -2021720250
+      DS DSi - Pokemon Black White - Hero MF Overworld_106: -1639016509
+      DS DSi - Pokemon Black White - Hero MF Overworld_107: 1360498363
+      DS DSi - Pokemon Black White - Hero MF Overworld_108: 639832100
+      DS DSi - Pokemon Black White - Hero MF Overworld_109: 981870788
+      DS DSi - Pokemon Black White - Hero MF Overworld_11: 2039409187
+      DS DSi - Pokemon Black White - Hero MF Overworld_110: -1285393781
+      DS DSi - Pokemon Black White - Hero MF Overworld_111: -831010439
+      DS DSi - Pokemon Black White - Hero MF Overworld_112: -1094369549
+      DS DSi - Pokemon Black White - Hero MF Overworld_113: 1340987404
+      DS DSi - Pokemon Black White - Hero MF Overworld_114: 1642516095
+      DS DSi - Pokemon Black White - Hero MF Overworld_115: -409466366
+      DS DSi - Pokemon Black White - Hero MF Overworld_116: -1109712085
+      DS DSi - Pokemon Black White - Hero MF Overworld_117: 2033083723
+      DS DSi - Pokemon Black White - Hero MF Overworld_118: 1911818158
+      DS DSi - Pokemon Black White - Hero MF Overworld_119: -31964826
+      DS DSi - Pokemon Black White - Hero MF Overworld_12: -180465857
+      DS DSi - Pokemon Black White - Hero MF Overworld_120: -1603740976
+      DS DSi - Pokemon Black White - Hero MF Overworld_121: 1336683164
+      DS DSi - Pokemon Black White - Hero MF Overworld_122: 693814163
+      DS DSi - Pokemon Black White - Hero MF Overworld_123: -1452524421
+      DS DSi - Pokemon Black White - Hero MF Overworld_124: 1167772435
+      DS DSi - Pokemon Black White - Hero MF Overworld_125: -1205331739
+      DS DSi - Pokemon Black White - Hero MF Overworld_126: 1151713777
+      DS DSi - Pokemon Black White - Hero MF Overworld_127: 1732633797
+      DS DSi - Pokemon Black White - Hero MF Overworld_128: 659405353
+      DS DSi - Pokemon Black White - Hero MF Overworld_129: 491845585
+      DS DSi - Pokemon Black White - Hero MF Overworld_13: -1110979044
+      DS DSi - Pokemon Black White - Hero MF Overworld_130: -296759673
+      DS DSi - Pokemon Black White - Hero MF Overworld_131: 1563546234
+      DS DSi - Pokemon Black White - Hero MF Overworld_132: 1219492023
+      DS DSi - Pokemon Black White - Hero MF Overworld_133: 1269156590
+      DS DSi - Pokemon Black White - Hero MF Overworld_134: 2111648871
+      DS DSi - Pokemon Black White - Hero MF Overworld_135: 1868588312
+      DS DSi - Pokemon Black White - Hero MF Overworld_136: -567743014
+      DS DSi - Pokemon Black White - Hero MF Overworld_137: -1458215449
+      DS DSi - Pokemon Black White - Hero MF Overworld_138: -621297331
+      DS DSi - Pokemon Black White - Hero MF Overworld_139: 1275623487
+      DS DSi - Pokemon Black White - Hero MF Overworld_14: 1200701006
+      DS DSi - Pokemon Black White - Hero MF Overworld_140: -997462548
+      DS DSi - Pokemon Black White - Hero MF Overworld_141: -262698756
+      DS DSi - Pokemon Black White - Hero MF Overworld_142: 1749132101
+      DS DSi - Pokemon Black White - Hero MF Overworld_143: 1358867665
+      DS DSi - Pokemon Black White - Hero MF Overworld_144: -1037498427
+      DS DSi - Pokemon Black White - Hero MF Overworld_145: -1344660392
+      DS DSi - Pokemon Black White - Hero MF Overworld_146: -468922991
+      DS DSi - Pokemon Black White - Hero MF Overworld_147: 546266352
+      DS DSi - Pokemon Black White - Hero MF Overworld_148: 2064397790
+      DS DSi - Pokemon Black White - Hero MF Overworld_149: 1272994754
+      DS DSi - Pokemon Black White - Hero MF Overworld_15: -1994340066
+      DS DSi - Pokemon Black White - Hero MF Overworld_150: -1755605118
+      DS DSi - Pokemon Black White - Hero MF Overworld_151: 310491498
+      DS DSi - Pokemon Black White - Hero MF Overworld_152: -1697854448
+      DS DSi - Pokemon Black White - Hero MF Overworld_153: 127294205
+      DS DSi - Pokemon Black White - Hero MF Overworld_154: 2096700587
+      DS DSi - Pokemon Black White - Hero MF Overworld_155: -1683899306
+      DS DSi - Pokemon Black White - Hero MF Overworld_156: -374296527
+      DS DSi - Pokemon Black White - Hero MF Overworld_157: -1069557536
+      DS DSi - Pokemon Black White - Hero MF Overworld_158: 1677008513
+      DS DSi - Pokemon Black White - Hero MF Overworld_159: -734167503
+      DS DSi - Pokemon Black White - Hero MF Overworld_16: -357620552
+      DS DSi - Pokemon Black White - Hero MF Overworld_160: 2044165239
+      DS DSi - Pokemon Black White - Hero MF Overworld_161: 1209024366
+      DS DSi - Pokemon Black White - Hero MF Overworld_162: 581152262
+      DS DSi - Pokemon Black White - Hero MF Overworld_163: -1591438313
+      DS DSi - Pokemon Black White - Hero MF Overworld_164: 143679916
+      DS DSi - Pokemon Black White - Hero MF Overworld_165: -1169330727
+      DS DSi - Pokemon Black White - Hero MF Overworld_166: 241675575
+      DS DSi - Pokemon Black White - Hero MF Overworld_167: -1479608885
+      DS DSi - Pokemon Black White - Hero MF Overworld_168: -845713112
+      DS DSi - Pokemon Black White - Hero MF Overworld_169: 1315808933
+      DS DSi - Pokemon Black White - Hero MF Overworld_17: 1159060168
+      DS DSi - Pokemon Black White - Hero MF Overworld_170: -2072553411
+      DS DSi - Pokemon Black White - Hero MF Overworld_18: -118499818
+      DS DSi - Pokemon Black White - Hero MF Overworld_19: 650044909
+      DS DSi - Pokemon Black White - Hero MF Overworld_2: 1047922179
+      DS DSi - Pokemon Black White - Hero MF Overworld_20: -1968667645
+      DS DSi - Pokemon Black White - Hero MF Overworld_21: -855233601
+      DS DSi - Pokemon Black White - Hero MF Overworld_22: -769135576
+      DS DSi - Pokemon Black White - Hero MF Overworld_23: -161240490
+      DS DSi - Pokemon Black White - Hero MF Overworld_24: -2103587149
+      DS DSi - Pokemon Black White - Hero MF Overworld_25: 79511137
+      DS DSi - Pokemon Black White - Hero MF Overworld_26: -1965129855
+      DS DSi - Pokemon Black White - Hero MF Overworld_27: 328377296
+      DS DSi - Pokemon Black White - Hero MF Overworld_28: 253725687
+      DS DSi - Pokemon Black White - Hero MF Overworld_29: -1157714327
+      DS DSi - Pokemon Black White - Hero MF Overworld_3: -1723880750
+      DS DSi - Pokemon Black White - Hero MF Overworld_30: 1411648921
+      DS DSi - Pokemon Black White - Hero MF Overworld_31: 961709811
+      DS DSi - Pokemon Black White - Hero MF Overworld_32: -1257345936
+      DS DSi - Pokemon Black White - Hero MF Overworld_33: -1613766301
+      DS DSi - Pokemon Black White - Hero MF Overworld_34: -1679778778
+      DS DSi - Pokemon Black White - Hero MF Overworld_35: -1171700380
+      DS DSi - Pokemon Black White - Hero MF Overworld_36: 1715660003
+      DS DSi - Pokemon Black White - Hero MF Overworld_37: -849667237
+      DS DSi - Pokemon Black White - Hero MF Overworld_38: 447866889
+      DS DSi - Pokemon Black White - Hero MF Overworld_39: 669498233
+      DS DSi - Pokemon Black White - Hero MF Overworld_4: 284232073
+      DS DSi - Pokemon Black White - Hero MF Overworld_40: 1154332847
+      DS DSi - Pokemon Black White - Hero MF Overworld_41: 740556038
+      DS DSi - Pokemon Black White - Hero MF Overworld_42: -1275031344
+      DS DSi - Pokemon Black White - Hero MF Overworld_43: 2135436314
+      DS DSi - Pokemon Black White - Hero MF Overworld_44: -46241673
+      DS DSi - Pokemon Black White - Hero MF Overworld_45: 1160213954
+      DS DSi - Pokemon Black White - Hero MF Overworld_46: 2123524838
+      DS DSi - Pokemon Black White - Hero MF Overworld_47: 904877458
+      DS DSi - Pokemon Black White - Hero MF Overworld_48: -1780450885
+      DS DSi - Pokemon Black White - Hero MF Overworld_49: 1737316503
+      DS DSi - Pokemon Black White - Hero MF Overworld_5: 1824717255
+      DS DSi - Pokemon Black White - Hero MF Overworld_50: -1700938025
+      DS DSi - Pokemon Black White - Hero MF Overworld_51: -751109691
+      DS DSi - Pokemon Black White - Hero MF Overworld_52: -1184947350
+      DS DSi - Pokemon Black White - Hero MF Overworld_53: -1686703629
+      DS DSi - Pokemon Black White - Hero MF Overworld_54: 1901486588
+      DS DSi - Pokemon Black White - Hero MF Overworld_55: -2111098026
+      DS DSi - Pokemon Black White - Hero MF Overworld_56: -275791872
+      DS DSi - Pokemon Black White - Hero MF Overworld_57: -651333219
+      DS DSi - Pokemon Black White - Hero MF Overworld_58: -1002861297
+      DS DSi - Pokemon Black White - Hero MF Overworld_59: 86015295
+      DS DSi - Pokemon Black White - Hero MF Overworld_6: -1798021290
+      DS DSi - Pokemon Black White - Hero MF Overworld_60: -239047147
+      DS DSi - Pokemon Black White - Hero MF Overworld_61: 771786151
+      DS DSi - Pokemon Black White - Hero MF Overworld_62: 1557285144
+      DS DSi - Pokemon Black White - Hero MF Overworld_63: 637125705
+      DS DSi - Pokemon Black White - Hero MF Overworld_64: 2007588594
+      DS DSi - Pokemon Black White - Hero MF Overworld_65: 1213989503
+      DS DSi - Pokemon Black White - Hero MF Overworld_66: -1873731762
+      DS DSi - Pokemon Black White - Hero MF Overworld_67: 475295420
+      DS DSi - Pokemon Black White - Hero MF Overworld_68: -403464375
+      DS DSi - Pokemon Black White - Hero MF Overworld_69: 1658836496
+      DS DSi - Pokemon Black White - Hero MF Overworld_7: -1127975861
+      DS DSi - Pokemon Black White - Hero MF Overworld_70: 555995880
+      DS DSi - Pokemon Black White - Hero MF Overworld_71: -1281968672
+      DS DSi - Pokemon Black White - Hero MF Overworld_72: -1211593925
+      DS DSi - Pokemon Black White - Hero MF Overworld_73: 1184425019
+      DS DSi - Pokemon Black White - Hero MF Overworld_74: -1056356207
+      DS DSi - Pokemon Black White - Hero MF Overworld_75: 990449529
+      DS DSi - Pokemon Black White - Hero MF Overworld_76: -252136160
+      DS DSi - Pokemon Black White - Hero MF Overworld_77: 2142319895
+      DS DSi - Pokemon Black White - Hero MF Overworld_78: -1862341209
+      DS DSi - Pokemon Black White - Hero MF Overworld_79: 1143175191
+      DS DSi - Pokemon Black White - Hero MF Overworld_8: -1928567176
+      DS DSi - Pokemon Black White - Hero MF Overworld_80: 2036931369
+      DS DSi - Pokemon Black White - Hero MF Overworld_81: -16463988
+      DS DSi - Pokemon Black White - Hero MF Overworld_82: 1501770271
+      DS DSi - Pokemon Black White - Hero MF Overworld_83: 1528589883
+      DS DSi - Pokemon Black White - Hero MF Overworld_84: 1988397607
+      DS DSi - Pokemon Black White - Hero MF Overworld_85: 899593388
+      DS DSi - Pokemon Black White - Hero MF Overworld_86: -520694602
+      DS DSi - Pokemon Black White - Hero MF Overworld_87: 391756176
+      DS DSi - Pokemon Black White - Hero MF Overworld_88: 328657581
+      DS DSi - Pokemon Black White - Hero MF Overworld_89: 360173725
+      DS DSi - Pokemon Black White - Hero MF Overworld_9: 590265182
+      DS DSi - Pokemon Black White - Hero MF Overworld_90: -1085845382
+      DS DSi - Pokemon Black White - Hero MF Overworld_91: 1807190282
+      DS DSi - Pokemon Black White - Hero MF Overworld_92: -1100637499
+      DS DSi - Pokemon Black White - Hero MF Overworld_93: -999588829
+      DS DSi - Pokemon Black White - Hero MF Overworld_94: -1734629409
+      DS DSi - Pokemon Black White - Hero MF Overworld_95: 250682310
+      DS DSi - Pokemon Black White - Hero MF Overworld_96: -485783971
+      DS DSi - Pokemon Black White - Hero MF Overworld_97: -20901768
+      DS DSi - Pokemon Black White - Hero MF Overworld_98: -220394791
+      DS DSi - Pokemon Black White - Hero MF Overworld_99: 1244525825
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
